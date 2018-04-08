@@ -5,7 +5,7 @@ This contains exercises 1 and 2 from Topics 1 and 2.
 
 ## File exercise 3
 This contains the program for the Collatz conjecture.
-Research was conducted on Wikipedia to learn the (Collatz conjecture) [https://en.wikipedia.org/wiki/Collatz_conjecture]. The resulting program was as a result of a trial and error process.
+Research was conducted on Wikipedia to learn the [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture). The resulting program was as a result of a trial and error process.
 
 ## File exercise4.py
 This is an attempt at programming the Euler problem 5
