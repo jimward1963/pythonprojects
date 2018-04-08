@@ -1,7 +1,7 @@
 # pythonprojects
 
 ## File exercises 1 and 2.py
-This contains exercises 1 and 2 from Topics 1 and 2. These topics involved Fibonacci numbers.
+This contains exercises 1 and 2 from Topics 1 and 2. These topics involved Fibonacci numbers. Exercise 2 also involved finding the meaning of the ord() function in Python.
 
 ## File exercise3.py
 This contains the program for the Collatz conjecture.
